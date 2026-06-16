@@ -1,13 +1,13 @@
 <!--
   README skeleton — after creating a repository from this template:
-  1. Replace the title, description and badge URLs (search for "template-oss").
+  1. Replace the title, description and badge URLs (search for "repo-template").
   2. Keep the branding footer at the bottom intact (it is managed org-wide).
 -->
 
-# template-oss
+# repo-template
 
 [![Powered by Sebastian Software](https://img.shields.io/badge/Powered%20by-Sebastian%20Software-00718d?style=flat-square)](https://oss.sebastian-software.com)
-[![CI](https://github.com/sebastian-software/template-oss/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastian-software/template-oss/actions/workflows/ci.yml)
+[![CI](https://github.com/sebastian-software/repo-template/actions/workflows/ci.yml/badge.svg)](https://github.com/sebastian-software/repo-template/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 One-line description of the project.

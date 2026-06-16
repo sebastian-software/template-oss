@@ -1,5 +1,5 @@
 {
-  "name": "template-oss",
+  "name": "repo-template",
   "version": "0.0.0",
   "private": true,
   "description": "One-line description of the project.",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sebastian-software/template-oss.git"
+    "url": "https://github.com/sebastian-software/repo-template.git"
   },
   "funding": {
     "type": "github",
